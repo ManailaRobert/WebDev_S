@@ -1,0 +1,21 @@
+body{
+    background-color: gray;
+}
+.input-style{
+padding-left: 10px;
+border-radius: 10px;
+font-size: 12px;
+letter-spacing: 1px;
+font-family: math;
+}
+h1{
+    color: white;
+font-size: 24px;
+margin: 30px;
+border-width: 5px;
+border-style: dashed;
+border-color: black;
+padding-left: 15px;
+border-radius: 20px;
+
+}
